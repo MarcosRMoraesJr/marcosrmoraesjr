@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Marcos e bem vindo ao meu mundo!</h2>
+<h2 align="center">Olá 👋! Meu nome é Marcos e bem vindo ao meu mundo!</h2>
 
 ###
 
@@ -10,6 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -42,6 +44,21 @@
 
 ###
 
-<p align="left">🔭 Atualmente estou trabalhando como educador em escolas, onde dou aula de Programação de Jogos com Construct 3 e Improvisação<br><br>🌱 Atualmente estou aprendendo Java e Python<br><br>📫 Como entrar em contato comigo: contato.marcosmoraes2@gmail.com ou https://www.linkedin.com/in/marcos-r-moraes/<br><br>⚡ Curiosidade divertida: Além de programador e game designer, sou humorista faz 12 anos.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosRMoraesJr/MarcosRMoraesJr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosRMoraesJr/MarcosRMoraesJr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarcosRMoraesJr/MarcosRMoraesJr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="center">🔭 Atualmente estou trabalhando como educador em escolas, onde dou aula de Programação de Jogos com Construct 3 e Improvisação<br><br>🌱 Atualmente estou aprendendo Java e Python<br><br>📫 Como entrar em contato comigo: contato.marcosmoraes2@gmail.com ou https://www.linkedin.com/in/marcos-r-moraes/<br><br>⚡ Curiosidade divertida: Além de programador e game designer, sou humorista faz 12 anos.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosRMoraesJr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosRMoraesJr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
